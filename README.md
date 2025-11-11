@@ -1,6 +1,5 @@
 # REACTIIP01002 — React Practical
 
-Complete README for the Chaintech React intern practical. This file explains the project, features, how to run it locally, the validation rules, how data is stored, and step-by-step instructions to upload to GitHub and submit your work.
 
 Repository: https://github.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002
 
@@ -113,59 +112,6 @@ npm run preview
 
 ---
 
-## How to upload this repository to GitHub (step-by-step)
-
-If you already created a repository on GitHub (looks like you did: `Kaushal-Ramoliya-REACTIIP01002`), these are the commands to push your local project to GitHub. Use HTTPS or SSH depending on your preference.
-
-Replace `<your-github-url>` with your repository URL (for example https://github.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002.git).
-
-PowerShell commands:
-
-```powershell
-cd "d:/CHAINTECH/REACTIIP01002"
-# If you haven't already initialized git locally:
-git init
-git add .
-git commit -m "Initial commit: React intern practical"
-git branch -M main
-git remote add origin <your-github-url>
-git push -u origin main
-```
-
-Authentication notes:
-- If prompted for a password when pushing via HTTPS, use a GitHub Personal Access Token (PAT) instead of your account password. Create one at https://github.com/settings/tokens with `repo` scope and paste it when asked.
-- If you prefer SSH, add your SSH public key to GitHub and use the SSH remote URL `git@github.com:<user>/<repo>.git`.
-
-Optional: create a feature branch and push it instead of committing directly to `main`:
-
-```powershell
-git checkout -b feat/ui-improvements
-git add .
-git commit -m "feat: ui and validation improvements"
-git push -u origin feat/ui-improvements
-```
-
----
-
-## What reviewers will check (so be explicit in README)
-
-- Functionality: register/login/profile/edit/delete flows are complete and work with localStorage.
-- Validation: email & password validation are enforced and error messages are clear.
-- Code quality: components are split sensibly, small helper utils abstract logic, comments where helpful.
-- Documentation: README explains how to run and submit.
-
-Make sure your repository contains `package.json`, `src/`, `index.html`, `vite.config.js`, and this `README.md` so reviewers can run the project quickly.
-
----
-
-## Troubleshooting
-
-- If `npm install` fails: update Node.js to latest LTS (18 or 20) and try again.
-- If port 5173 is already in use, Vite will try another port (e.g. 5174). Open the URL shown in the terminal.
-- If `git push` fails with authentication errors, create a PAT or configure SSH keys.
-
----
-
 ## 🙋 About Me
 
 > 👨‍💻 **Kaushal Ramoliya**  
@@ -173,6 +119,7 @@ Make sure your repository contains `package.json`, `src/`, `index.html`, `vite.c
 > 📧 Email: [kaushalramoliya17@gmail.com](mailto:kaushalramoliya17@gmail.com)  
 > 🌐 LinkedIn: [linkedin.com/in/kaushalramoliya](https://www.linkedin.com/in/kaushalramoliya)  
 > 💻 GitHub: [github.com/Kaushalramoliya](https://github.com/Kaushalramoliya)
+
 
 
 
