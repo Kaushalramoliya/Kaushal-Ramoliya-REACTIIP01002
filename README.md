@@ -166,8 +166,13 @@ Make sure your repository contains `package.json`, `src/`, `index.html`, `vite.c
 
 ---
 
+## 🙋 About Me
 
-Submission deadline: 12 November, 2025
+> 👨‍💻 **Kaushal Ramoliya**  
+> 🎓 B.Tech in Computer Science & Engineering  
+> 📧 Email: [kaushalramoliya17@gmail.com](mailto:kaushalramoliya17@gmail.com)  
+> 🌐 LinkedIn: [linkedin.com/in/kaushalramoliya](https://www.linkedin.com/in/kaushalramoliya)  
+> 💻 GitHub: [github.com/Kaushalramoliya](https://github.com/Kaushalramoliya)
 
-Good luck!
+
 
