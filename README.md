@@ -1,4 +1,4 @@
-# REACTIIP01002 — React Intern Practical
+# REACTIIP01002 — React Practical
 
 Complete README for the Chaintech React intern practical. This file explains the project, features, how to run it locally, the validation rules, how data is stored, and step-by-step instructions to upload to GitHub and submit your work.
 
@@ -90,7 +90,7 @@ Prerequisites: Node.js 18+ and npm installed.
 1. Open PowerShell and install dependencies:
 
 ```powershell
-cd "d:/B_Tech_CSE_Sem-7/CHAINTECH/REACTIIP01002"
+cd "d:/CHAINTECH/REACTIIP01002"
 npm install
 ```
 
@@ -122,7 +122,7 @@ Replace `<your-github-url>` with your repository URL (for example https://github
 PowerShell commands:
 
 ```powershell
-cd "d:/B_Tech_CSE_Sem-7/CHAINTECH/REACTIIP01002"
+cd "d:/CHAINTECH/REACTIIP01002"
 # If you haven't already initialized git locally:
 git init
 git add .
@@ -173,6 +173,7 @@ Make sure your repository contains `package.json`, `src/`, `index.html`, `vite.c
 > 📧 Email: [kaushalramoliya17@gmail.com](mailto:kaushalramoliya17@gmail.com)  
 > 🌐 LinkedIn: [linkedin.com/in/kaushalramoliya](https://www.linkedin.com/in/kaushalramoliya)  
 > 💻 GitHub: [github.com/Kaushalramoliya](https://github.com/Kaushalramoliya)
+
 
 
 
