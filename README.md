@@ -166,75 +166,8 @@ Make sure your repository contains `package.json`, `src/`, `index.html`, `vite.c
 
 ---
 
-## Screenshots (recommended)
-
-Add screenshots to `docs/screenshots/` and reference them here. Example markdown to add to README:
-
-```markdown
-Below are the current screenshots included in the repository. If you want to replace them with higher-resolution images, see the instructions after the images.
-
-![Screenshot 1](https://raw.githubusercontent.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002/main/Screenshot/Screenshot_1.png)
-
-![Screenshot 2](https://raw.githubusercontent.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002/main/Screenshot/Screenshot_2.png)
-
-![Screenshot 3](https://raw.githubusercontent.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002/main/Screenshot/Screenshot_3.png)
-
-![Screenshot 4](https://raw.githubusercontent.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002/main/Screenshot/Screenshot_4.png)
-```
-
-If you want, add a short GIF showing registration → login → profile update.
-
-How to replace screenshots with improved images
-
-1. Create a `docs/screenshots/` folder in your project (recommended) or replace files in the existing `Screenshot/` folder.
-
-2. Name your new images exactly (or update the README links):
-	- `Screenshot_1.png`
-	- `Screenshot_2.png`
-	- `Screenshot_3.png`
-	- `Screenshot_4.png`
-
-3. From PowerShell, add and commit the new images and push to GitHub:
-
-```powershell
-git add docs/screenshots/*
-git commit -m "docs: update screenshots"
-git push
-```
-
-4. The README will load the new images automatically if you replaced the files in `Screenshot/` or updated the links to `docs/screenshots/`.
-
-Tips for good screenshots
-
-- Use a clean browser window and zoom level 100%.
-- Capture forms with visible validation messages.
-- Use consistent image sizes (e.g., 1280×720 or 1024×576) and export as PNG.
-- Optionally annotate with small callouts (use free tools like Paint, Markup, or online editors).
-
----
-
-## Submission
-
-After pushing your code to GitHub, copy the repository URL (for example `https://github.com/Kaushalramoliya/Kaushal-Ramoliya-REACTIIP01002`) and paste it into the Google Form provided by Chaintech for the assignment.
-
-Submission deadline: 12 November, 2025
-
----
-
-## Notes and security
-
-- This project stores passwords in plaintext in localStorage for demo purposes only. Do not use this approach in production. For production, use secure password hashing and a backend API over HTTPS.
-- Remove any secrets from the repo before sharing publicly.
-
----
-
-## Contact / Questions
-
-If anything is unclear, reply here or contact your hiring manager as instructed in the assignment.
-
-Good luck with your submission!
-
 
 Submission deadline: 12 November, 2025
 
 Good luck!
+
